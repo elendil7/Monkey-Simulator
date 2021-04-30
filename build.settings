@@ -1,0 +1,20 @@
+-- Supported values for orientation:
+-- portrait, portraitUpsideDown, landscapeLeft, landscapeRight
+
+settings = 
+	{
+        orientation = {
+        	default = "landscapeLeft",
+        	supported = { "landscapeLeft", "landscapeRight", }
+    },
+	
+	excludeFiles =
+    {
+        -- Exclude unnecessary files for each platform
+        all = { "Icon.png", "Icon-*dpi.png", "Images.xcassets", },
+        android = { "LaunchScreen.storyboardc", },
+    },
+
+}
+
+
