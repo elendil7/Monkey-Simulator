@@ -1,2 +1,2 @@
-# Monkey-Simulator-v1.0
+# Monkey-Simulator
 A basic action game coded in Lua with Solar2D framework.
