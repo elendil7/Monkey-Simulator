@@ -24,7 +24,8 @@
     <li>Android Operating System (v4.0.3+).</li>
     <li>Various android emulators, including <a href="https://www.bluestacks.com/">BlueStacks</a>, <a href="https://www.bignox.com/">NoxPlayer</a>, and <a href="https://solar2d.com/">Solar2D</a>.</li>
   </ul>
-  <img width=15% src="https://img.icons8.com/dusk/344/android.png">
+  <img width=15% src="https://www.solar2dplugins.com/images/social-icon.png">
+  <img width=15% src="https://www.iconsdb.com/icons/preview/purple/android-6-xxl.png">
   <img width=15% src="https://img.icons8.com/dusk/344/bluestacks.png">
   <img width=15% src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Nox_App_Player_Icon3.png/1200px-Nox_App_Player_Icon3.png">
 </div>
